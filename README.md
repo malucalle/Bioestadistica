@@ -3,4 +3,4 @@ Materials de l'assignatura de Bioestadística dels graus de Biociències de la F
 
 Els enunciats de les pràctiques els trobareu aquí http://mon.uvic.cat/statistical-pills/bioestadistica/
 
-El fitxer dades.zip conté tots els fitxers de dades que s'utilitzen a les pràctiques: 
+El fitxer dades.zip conté tots els fitxers de dades que s'utilitzen a les pràctiques: https://github.com/UVic-omics/Bioestadistica/blob/master/dades.zip
